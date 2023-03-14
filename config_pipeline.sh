@@ -6,7 +6,7 @@ sudo apt update && sudo apt upgrade -y
 GIT_USER=""
 GIT_EMAIL=""
 
-if [ -z $GIT_USER]; then
+if [ -z $GIT_USER ]; then
   echo "Redefinir no script configurações do git"
   exit 0
 fi
