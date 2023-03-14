@@ -1,5 +1,5 @@
 # Setup Básico
-O propósito deste repositório é de fornecer a instalação dos programas básicos para um ambiente Linux recém instalado. Note que alguns dos comandos, tal como a instalação da ferramenta ```Anaconda``` bem como da linguagem ```rust``` têm instaladores que precisam de parâmetros sendo passados manualmente, desta forma, a execução do script ```config_pipeline.sh``` não é totalmente automatizada.
+O propósito deste repositório é de fornecer a instalação dos programas básicos para um ambiente Ubuntu recém instalado. Note que alguns dos comandos, tal como a instalação da ferramenta ```Anaconda``` bem como da linguagem ```rust``` têm instaladores que precisam de parâmetros sendo passados manualmente, desta forma, a execução do script ```config_pipeline.sh``` não é totalmente automatizada.
 
 # Como usar?
 
