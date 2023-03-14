@@ -13,5 +13,5 @@ O propósito deste repositório é de fornecer a instalação dos programas bás
 ## 2) Baixando diretamente arquivo
 ```bash
     foo@bar:~$ wget --content-disposition "https://raw.githubusercontent.com/Cogitus/Setup-B-sico/main/config_pipeline.sh"
-    foo@bar:~$ bash bash config_pipeline.sh
+    foo@bar:~$ bash config_pipeline.sh
 ```
