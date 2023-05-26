@@ -16,10 +16,10 @@ git config --global user.name "$GIT_USER"
 git config --global user.email "$GIT_EMAIL"
 
 # instalando programas diversos utilitários
-sudo apt install vim tmux neofetch bashtop exa bat curl -y
+sudo apt install vim tmux neofetch bashtop exa bat curl pkg-config -y
 
 # instalando libs da gnome (para posteriores personalizações)
-sudo apt install gnome-tweaks gnome-shell-extensios -y
+sudo apt install gnome-tweaks gnome-shell-extensios gnome-screenshot -y
 
 # instalando o telegram
 sudo apt install telegram-desktop -y
