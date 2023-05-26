@@ -16,7 +16,7 @@ git config --global user.name "$GIT_USER"
 git config --global user.email "$GIT_EMAIL"
 
 # instalando programas diversos utilitários
-sudo apt install vim tmux neofetch bashtop exa bat curl pkg-config -y
+sudo apt install vim tmux neofetch bashtop exa bat curl pkg-config libssl-dev -y
 
 # instalando libs da gnome (para posteriores personalizações)
 sudo apt install gnome-tweaks gnome-shell-extensios gnome-screenshot -y
